@@ -1,0 +1,21 @@
+//http://mvpotter.com/post/2016/09/spring-boot-debian-package/
+//new relic
+//logback https://lankydanblog.com/2017/08/31/configuring-logback-with-spring-boot/
+//https://springframework.guru/using-logback-spring-boot/
+//https://bitbucket.pearson.com/projects/BRIX/repos/assessment-proxy/browse/src/main/resources/logback.xml
+
+//Swagger: http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+//https://www.youtube.com/watch?v=zmnW_FC4y9I
+//https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+//https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+//http://localhost:8080/swagger-ui.html
+//api-docs
+//https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+//https://www.facebook.com/100005344636621/videos/759594244228723/
+
+// spring boot reference guide: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-error-handling
+// Change Tomcat Port: https://www.mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/?utm_source=mkyong&utm_medium=author&utm_campaign=related-post&utm_content=3
+// Format Date: https://www.mkyong.com/java8/java-8-how-to-format-localdatetime/?utm_source=mkyong&utm_medium=sidebar&utm_campaign=10k-100k&utm_content=0
+// File Upload : https://www.mkyong.com/spring-boot/spring-boot-file-upload-example-ajax-and-rest/?utm_source=mkyong&utm_medium=sidebar&utm_campaign=10k-100k&utm_content=3
+// Data: https://www.mkyong.com/spring-boot/spring-boot-spring-data-mongodb-example/?utm_source=mkyong&utm_medium=author&utm_campaign=related-post&utm_content=7
+// Externalized Configuration : https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
